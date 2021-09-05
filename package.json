@@ -1,0 +1,10 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@grapecity/wijmo": "^5.20212.812",
+    "@grapecity/wijmo.chart": "5.20212.812",
+    "@grapecity/wijmo.styles": "5.20212.812"
+  }
+}
